@@ -5,7 +5,7 @@
  
 <h1 align="center">Hello 👋, I'm Felix Ivander</h1>
 <h3 align="center">A Full Stack Web Developer...</h3>
-<h4 align='center' >From Pune, Maharashtra </h4>
+<h4 align='center' >From Central Java, Indonesia </h4>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/felix-ivander-6a6562236/" target="_blank"><img align="center"
