@@ -8,7 +8,7 @@
 <h4 align='center' >From Central Java, Indonesia </h4>
 <hr>
 <p align="center">
-    <a href="https://www.linkedin.com/in/felix-ivander-6a6562236/" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/felix-ivander-8b7172292/" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="Felix" height="30" width="40" /></a>
     <a href="https://www.instagram.com/lyxcatus/" target="_open"><img align="center"
@@ -30,7 +30,7 @@
 
 <!-- - 🌏 Visit to my <a href="#">Portfolio</a> -->
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1dDalpZyl5p3vUnMmJh3Z1am6EYMxDe0K/view?usp=sharing)
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1KtVZH-fvAUbThsm-CMIvFhlwmVQa1iUy/view?usp=sharing)
 
 - 👨‍💻 My projects are available at my [Git_Hub](https://github.com/FelyksCode)
 
