@@ -32,7 +32,7 @@
 
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1KtVZH-fvAUbThsm-CMIvFhlwmVQa1iUy/view?usp=sharing)
 
-- 👨‍💻 My projects are available at my [Git_Hub](https://github.com/FelyksCode)
+- 👨‍💻 My projects are available at my [Git_Hub](https://github.com/FelyksCode?tab=repositories)
 
 - ⚡ Fun quote **You’re getting hung up on imaginary problems. You got to focus on what’s real**
 
